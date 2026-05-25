@@ -1,0 +1,9 @@
+h1 {font-size: 400%;
+    color:crimson;
+}
+h1 {border-style: double;
+    border-color: black;
+    border-width: 6px;}
+#ima1 {margin-left: 30%;
+       width: 50%;
+    }
